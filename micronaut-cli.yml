@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.jay.test
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, http-session, jackson-databind, java, java-application, junit, logback, lombok, management, maven, mockito, netty-server, openapi, readme, security, security-annotations, shade, yaml]
